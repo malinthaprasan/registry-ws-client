@@ -13,5 +13,5 @@ To run the sample,
 2. Copy "registry-ws-client" to APIM_HOME/samples folder
 3. Run "ant run".
 
-[1] https://docs.wso2.com/display/Governance510/Web+Services+API
+[1] https://docs.wso2.com/display/Governance510/Web+Services+API <br>
 [2] https://docs.wso2.com/display/Governance510/Setting+up+the+WS+API+Registry+Client+and+WS-Security
